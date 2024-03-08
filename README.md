@@ -14,7 +14,7 @@ pip installl requests
 pip install pyfiglet
 
 
-poi install colorama
+pip install colorama
 
 
 apt update  && apt upgrade
